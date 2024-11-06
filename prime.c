@@ -18,6 +18,6 @@ int main(){
         //    printf("%d ",i);
         //}
     }
-    printf("Ended...........");
+    printf("Task Ended...........");
     return 0;
 }
