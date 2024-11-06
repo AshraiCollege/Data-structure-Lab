@@ -109,7 +109,7 @@ int main() {
     int result = evaluatePostfix(postfixExpression);
     printf("The result of the postfix expression is: %d\n", result);
 
-    printf("hi stack!...");
+    //printf("hi stack!...");it's not needed
     return 0;
 }
 
